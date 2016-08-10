@@ -27,7 +27,8 @@ Algoritmo Calculadora
 	
 	
 	//rama rene_s
-	ola a todos rene 
+	ola a todos rene
+	esto es muy interezante
 	
 	
 	
