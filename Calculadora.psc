@@ -34,6 +34,12 @@ Algoritmo Calculadora
 	
 	//rama luis
 	escribir "Hola mundo"	
+	
+	
+	
+	
+	//rama jhuliano
+	escribir "Tengo Hambre"
 
 
 
