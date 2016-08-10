@@ -1,5 +1,32 @@
 Algoritmo Calculadora
-	Escribir "Hola github!!!"
-	Escribir "Hola a todo el grupo"
-	Escribir "Hola alexander"
+	//rama master
+	Escribir "Esta es la rama master..."
+	
+	
+	
+	//rama ismael
+	
+	
+	
+	
+	
+	//rama marcelo
+	
+	
+	
+	
+	
+	//rama carla
+	
+	
+	
+	
+	
+	//rama facundo
+	
+	
+	
+	
+	
+	
 FinAlgoritmo
