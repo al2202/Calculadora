@@ -6,14 +6,14 @@ Algoritmo Calculadora
 	
 	//rama ismael
 	
-	HOLA YA ESTOY EN PROYECTO JAJAJA (MAX)
+
 	
 	
 	
 	//rama marcelo
 	
 	
-	
+	hduashdjoas
 	
 	
 	//rama carla
