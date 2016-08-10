@@ -28,5 +28,10 @@ Algoritmo Calculadora
 	
 	
 	
-	
+	//rama luis
+	escribir "Hola mundo"	
+
+
+
+
 FinAlgoritmo
