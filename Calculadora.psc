@@ -18,7 +18,7 @@ Algoritmo Calculadora
 	
 	//rama carla
 	
-	
+	CODIFICANDO..xD
 	
 	
 	
@@ -26,10 +26,20 @@ Algoritmo Calculadora
 	HOLA CURSO
 	
 	
+	//rama rene_s
+	ola a todos rene 
+	
+	
 	
 	
 	//rama luis
 	escribir "Hola mundo"	
+	
+	
+	
+	
+	//rama jhuliano
+	escribir "Tengo Hambre"
 
 	escribir "nueva rama"
 
